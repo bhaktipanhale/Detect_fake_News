@@ -5,14 +5,14 @@ Team Members-Bhakti Panhale
 Topic-Detecting Fake News(S-06)
 
 # Detect_fake_News
-Introduction
+Introduction:
   In today's generation, we cant trust all the news from social media. So we came up with this project of detecting fake news.
   We will ue Multinomial Naives Bayes Method
   
- Data
+ Data:
     We are using news.csv file which has cleaned data (i.e news).We are using for classifying as REAL or Fake.
     
- Project Struture
+ Project Struture:
     We first import the libraries needed.
     Then import the text file in the form of csv.
     Then count the REAL and FAKE news and TOTAL RECORDS.
